@@ -1,0 +1,16 @@
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\задание 10.exe
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\задание 10.deps.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\задание 10.runtimeconfig.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\задание 10.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\ref\задание 10.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\bin\Debug\net6.0\задание 10.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.GlobalUsings.g.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.csproj.AssemblyReference.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.GeneratedMSBuildEditorConfig.editorconfig
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.AssemblyInfoInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.AssemblyInfo.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.csproj.CoreCompileInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\ref\задание 10.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 2\Задания\задание 10\obj\Debug\net6.0\задание 10.genruntimeconfig.cache
